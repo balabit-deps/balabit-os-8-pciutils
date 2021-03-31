@@ -1,7 +1,8 @@
 Source: pciutils
 Section: admin
 Priority: optional
-Maintainer: Guillem Jover <guillem@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Guillem Jover <guillem@debian.org>
 Build-Depends:
  debhelper-compat (= 12),
  pci.ids (>= 0.0~2019.11.10-2),
